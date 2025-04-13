@@ -34,7 +34,3 @@ Contributions to the project are welcome! If you have any improvements, bug fixe
 
 ## Note 
 For detailed insights and in-depth analysis of the E_commerce_Sales_Analysis_Dashboard , please refer to the 'description' folder in this repository.
-
-## Contact
-
-For any enquiries or feedback, please contact me at www.linkedin.com/in/yogendra-wadkar .
